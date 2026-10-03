@@ -1,0 +1,18 @@
+[
+  {
+    "id": "hcsr04",
+    "name": "HC-SR04 Ultrasonic Sensor",
+    "category": "Sensors",
+    "voltage": "5V DC",
+    "description": "Measures distance using ultrasonic sound waves.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HC-SR04_Ultrasonic_Sensor.jpg"
+  },
+  {
+    "id": "l298n",
+    "name": "L298N Motor Driver",
+    "category": "Actuators & Drivers",
+    "voltage": "5V - 35V DC",
+    "description": "Dual H-Bridge driver module to control DC motor speed and direction.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/L298N_Dual_H-Bridge_Motor_Controller.jpg"
+  }
+]
